@@ -7,7 +7,6 @@ void Exercise4()
 {
     // Exercuse4: Каждую часто используемую букву в строке заменить
     // на менее используемую (и наоборот)
-
     // SSSSfbcd -> ffffSSSS
 
     std::string strSomeString = "SSSSfbcd";
